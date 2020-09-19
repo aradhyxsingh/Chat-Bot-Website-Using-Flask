@@ -4,5 +4,5 @@ This chat bot website displays the messeges sent by the client which when connec
 #### This is how the website looks:
 ![Image of the website](https://github.com/aradhyxsingh/Chat-Bot-Website-Using-Flask/blob/master/Images/image1.jpg)
 
-#### Backend of the website:
+#### *Backend of the website:*
 ![Image of the website](https://github.com/aradhyxsingh/Chat-Bot-Website-Using-Flask/blob/master/Images/image2.JPG)
